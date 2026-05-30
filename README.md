@@ -18,3 +18,8 @@ The script will run 4 tools against the file in question:
 * pestats.py
 
 Each tool will output a separate json file in the path you are running this batch script. 
+
+### Setup
+To be able to run these tools, you will need to download Floss, Capa, Detect-It-Easy, and a copy of the pestats.py script. You will also need to meet the dependency requirements for the pestats.py script and have python 3.8+ on your host.
+
+* The batch script also is set to execute these programs based on the current file path they are in on my machine. Adjust the script to fit your needs if you have these applications in a different path. 
