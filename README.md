@@ -32,7 +32,8 @@ This script requires the following tools to be installed and configured before u
 **4. PEStats**
 - Download `pestats.py` and place it at `C:\Tools\pestats.py` (or update the path in the script)
 - Requires Python 3 and `pefile`: `pip install pefile`
-- Copy of the python script can be found in this repo: https://github.com/as0ni/pestats
+- Pestats python script is available on this page: https://github.com/Dathalind/Analyze.bat/blob/main/pestats.py
+- Original copy of the python script can be found in this repo: https://github.com/as0ni/pestats
   - Credit to https://github.com/as0ni for this script. 
 
 ---
