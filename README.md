@@ -8,7 +8,7 @@ The script will run 4 tools against the file in question:
 * Capa
 * pestats.py
 
-Each tool will output a separate json file in the path you are running this batch script. 
+Each tool will output a separate json file in the path you are running this batch script. The script now supports multiple file arguments passed, either via the command line or drag and drop. Current limit is set to 10 files.
 
 ## Setup & Requirements
 
